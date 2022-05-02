@@ -1,0 +1,7 @@
+key parent Adventure_brushes~!0x1C1DC395.prop
+string16 description "Effects"
+int32 palettePageNumColumns 6
+int32 palettePageNumRows 10
+key palettePageParentCategory Adventure_props_palette_categories~!0xD76EDA9F
+uint32 palettePageSequenceNumber 100
+int32 palettePageSetId 1

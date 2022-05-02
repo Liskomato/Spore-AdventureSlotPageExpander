@@ -1,0 +1,9 @@
+vector4 palettePageBorder (0.01, 0.005, 0.01, 0.005)
+float palettePageItemAspectRatio 1.4
+float palettePageItemMaxPercentageHeight 0.09
+float palettePageItemPercentageWidth 0.225
+key palettePageLayoutFile 0x49D4F36C
+int32 palettePageNumColumns 6
+int32 palettePageNumRows 10
+bool palettePageUseAbsoluteItemSize false
+bool palettePageUseRelativeLayout true

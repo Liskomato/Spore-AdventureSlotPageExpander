@@ -1,0 +1,9 @@
+<mod displayName="Adventure Slot Page Expander v2.0 (2020)" unique="AdventureSlotExpander" description="This mod increases the amount of slots available per page in the Adventure Editor.&#xA;&#xA;You can install versions with either 20 slots, 40 slots or even 60. &#xA;&#xA;WARNING: HIGH RESOLUTIONS RECOMMENDED FOR THIS MOD!!!" installerSystemVersion="1.0.0.0">
+	<componentGroup unique="SlotAmount" displayName="Page Slots">
+		<component unique="20Slots" displayName="20 Slots" description="This will add 20 slots into a page in a 4x5 grid.&#xA;&#xA;Recommended for resolutions 1280x720 and above." imagePlacement="After" game="GalacticAdventures" defaultChecked="true">!!!2020_2-0-0_AdventureSlotExpander_Normal.package</component>
+		<component unique="40Slots" displayName="40 Slots" description="This will add 40 slots into a page in a 4x10 grid.&#xA;&#xA;Recommended for resolutions 1600x900 and above." imagePlacement="After" game="GalacticAdventures">!!!2020_2-0-0_AdventureSlotExpander_Pro.package</component>
+		<component unique="60Slots" displayName="60 Slots" description="This will add 60 slots into a page in a 6x10 grid.&#xA;&#xA;Recommended for resolutions 1920x1080 and above." imagePlacement="After" game="GalacticAdventures">!!!2020_2-0-0_AdventureSlotExpander_Extreme.package</component>
+	</componentGroup>
+	<remove game="GalacticAdventures">*AdventureSlotExpander*</remove>
+	<remove game="GalacticAdventures">*AdventureSlotPageExpander*</remove>
+</mod>

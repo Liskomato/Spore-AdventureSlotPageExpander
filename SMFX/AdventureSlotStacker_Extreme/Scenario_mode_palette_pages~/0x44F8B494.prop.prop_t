@@ -1,0 +1,7 @@
+key parent Adventure_brushes~!0xD2B7F780.prop
+string16 description "Audio"
+int32 palettePageNumColumns 6
+int32 palettePageNumRows 10
+key palettePageParentCategory Adventure_props_palette_categories~!0x99B94DAA
+uint32 palettePageSequenceNumber 100
+int32 palettePageSetId 1
